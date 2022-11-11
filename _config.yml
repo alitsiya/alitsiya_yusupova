@@ -1,24 +1,20 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
+title: Photography by Alitsiya Yusupova
+email: "alitsiya.yusupova@gmail.com"
+description: "Photography by Alitsiya Yusupova"
+url: "https://alitsiya.github.io/alitsiya_yusupova"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+facebook_username: "alitsiya.yusupova"
+instagram_username: "alitsiya.yusupova"
+flickr_username: "aliajj"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   alitsiya yusupova
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: alitsiya yusupova photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://alitsiya.github.io/alitsiya_yusupova/gallery/"
+  - JOURNAL: "https://alitsiya.github.io/alitsiya_yusupova/journal/"
+  - ABOUT: "https://alitsiya.github.io/alitsiya_yusupova/about/"
 
 # All translation keys
 translations:
