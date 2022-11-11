@@ -29,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://alitsiya.github.io/alitsiya_yusupova/gallery/"
-  - JOURNAL: "https://alitsiya.github.io/alitsiya_yusupova/journal/"
-  - ABOUT: "https://alitsiya.github.io/alitsiya_yusupova/about/"
+#  - GALLERY: "https://alitsiya.github.io/alitsiya_yusupova/gallery/"
+#  - JOURNAL: "https://alitsiya.github.io/alitsiya_yusupova/journal/"
+#  - ABOUT: "https://alitsiya.github.io/alitsiya_yusupova/about/"
 
 # All translation keys
 translations:
