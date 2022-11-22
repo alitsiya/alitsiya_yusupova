@@ -3,7 +3,7 @@ title: Photography by Alitsiya Yusupova
 email: "alitsiya.yusupova@gmail.com"
 description: "Photography by Alitsiya Yusupova"
 url: "https://alitsiya.github.io"
-baseurl: "/alitsiya_yusupova"
+baseurl: "/alitsiya.github.io"
 facebook_username: "alitsiya.yusupova"
 instagram_username: "alitsiya.yusupova"
 flickr_username: "aliajj"
@@ -29,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-#  - GALLERY: "https://alitsiya.github.io/alitsiya_yusupova/gallery/"
-#  - JOURNAL: "https://alitsiya.github.io/alitsiya_yusupova/journal/"
-#  - ABOUT: "https://alitsiya.github.io/alitsiya_yusupova/about/"
+#  - GALLERY: "https://alitsiya.github.io/alitsiya.github.io/gallery/"
+#  - JOURNAL: "https://alitsiya.github.io/alitsiya.github.io/journal/"
+#  - ABOUT: "https://alitsiya.github.io/alitsiya.github.io/about/"
 
 # All translation keys
 translations:
